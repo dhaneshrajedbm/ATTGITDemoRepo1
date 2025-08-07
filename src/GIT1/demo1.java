@@ -6,5 +6,11 @@ public class demo1 {
 		// TODO Auto-generated method stub
 
 	}
+	public static void m1() {
+		
+	}
+	public static void m2() {
+		
+	}
 
 }
