@@ -7,7 +7,11 @@ public class demo1 {
 
 	}
 	public static void m1() {
-		
+
+		System.out.println("modification done by purple user")
+
+		system.out.println("Modified by Green user")
+
 	}
 	public static void m2() {
 		
